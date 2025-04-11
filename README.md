@@ -1,4 +1,12 @@
-# PJ Dash Connect
+# PjDashConnect
+
+# Live
+- link
+- https://taskonic.netlify.app/
+
+## Preview 
+![img1](asset/1.png)
+![img2](asset/2.png)
 
 A modern React dashboard application built with:
 
